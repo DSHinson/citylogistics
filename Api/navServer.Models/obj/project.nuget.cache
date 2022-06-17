@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e0TbtwvmSkaOi3HXwnNBdXhexg/uuOXphpdz7jBBnD3DFiHatOFE2CTdroPFKYM9t7m506GRYU3f6EBnSTlE8A==",
+  "success": true,
+  "projectFilePath": "C:\\Development\\Learning\\Kata\\MVC\\navServer.Models\\navServer.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\googlemaps.locationservices\\1.2.0.5\\googlemaps.locationservices.1.2.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

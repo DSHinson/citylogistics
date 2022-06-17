@@ -1,0 +1,15 @@
+C:\Development\Learning\Kata\MVC\navServer.BLL\bin\Debug\net5.0\navServer.BLL.deps.json
+C:\Development\Learning\Kata\MVC\navServer.BLL\bin\Debug\net5.0\navServer.BLL.dll
+C:\Development\Learning\Kata\MVC\navServer.BLL\bin\Debug\net5.0\navServer.BLL.pdb
+C:\Development\Learning\Kata\MVC\navServer.BLL\bin\Debug\net5.0\navServer.Models.dll
+C:\Development\Learning\Kata\MVC\navServer.BLL\bin\Debug\net5.0\navServer.Models.pdb
+C:\Development\Learning\Kata\MVC\navServer.BLL\obj\Debug\net5.0\navServer.BLL.csproj.AssemblyReference.cache
+C:\Development\Learning\Kata\MVC\navServer.BLL\obj\Debug\net5.0\navServer.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Learning\Kata\MVC\navServer.BLL\obj\Debug\net5.0\navServer.BLL.AssemblyInfoInputs.cache
+C:\Development\Learning\Kata\MVC\navServer.BLL\obj\Debug\net5.0\navServer.BLL.AssemblyInfo.cs
+C:\Development\Learning\Kata\MVC\navServer.BLL\obj\Debug\net5.0\navServer.BLL.csproj.CoreCompileInputs.cache
+C:\Development\Learning\Kata\MVC\navServer.BLL\obj\Debug\net5.0\navServer.BLL.csproj.CopyComplete
+C:\Development\Learning\Kata\MVC\navServer.BLL\obj\Debug\net5.0\navServer.BLL.dll
+C:\Development\Learning\Kata\MVC\navServer.BLL\obj\Debug\net5.0\refint\navServer.BLL.dll
+C:\Development\Learning\Kata\MVC\navServer.BLL\obj\Debug\net5.0\navServer.BLL.pdb
+C:\Development\Learning\Kata\MVC\navServer.BLL\obj\Debug\net5.0\ref\navServer.BLL.dll

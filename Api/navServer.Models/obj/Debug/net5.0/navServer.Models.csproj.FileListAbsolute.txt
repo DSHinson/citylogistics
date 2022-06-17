@@ -1,0 +1,12 @@
+C:\Development\Learning\Kata\MVC\navServer.Models\bin\Debug\net5.0\navServer.Models.deps.json
+C:\Development\Learning\Kata\MVC\navServer.Models\bin\Debug\net5.0\navServer.Models.dll
+C:\Development\Learning\Kata\MVC\navServer.Models\bin\Debug\net5.0\navServer.Models.pdb
+C:\Development\Learning\Kata\MVC\navServer.Models\obj\Debug\net5.0\navServer.Models.csproj.AssemblyReference.cache
+C:\Development\Learning\Kata\MVC\navServer.Models\obj\Debug\net5.0\navServer.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Learning\Kata\MVC\navServer.Models\obj\Debug\net5.0\navServer.Models.AssemblyInfoInputs.cache
+C:\Development\Learning\Kata\MVC\navServer.Models\obj\Debug\net5.0\navServer.Models.AssemblyInfo.cs
+C:\Development\Learning\Kata\MVC\navServer.Models\obj\Debug\net5.0\navServer.Models.csproj.CoreCompileInputs.cache
+C:\Development\Learning\Kata\MVC\navServer.Models\obj\Debug\net5.0\navServer.Models.dll
+C:\Development\Learning\Kata\MVC\navServer.Models\obj\Debug\net5.0\refint\navServer.Models.dll
+C:\Development\Learning\Kata\MVC\navServer.Models\obj\Debug\net5.0\navServer.Models.pdb
+C:\Development\Learning\Kata\MVC\navServer.Models\obj\Debug\net5.0\ref\navServer.Models.dll
