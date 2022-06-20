@@ -3,7 +3,6 @@ using GoogleMaps.LocationServices;
 using navServer.BLL.Interfaces;
 using navServer.Models.Core;
 
-
 namespace navServer.BLL.Implementations
 {
     public class GeoLocationsService : IGeoLocation

@@ -1,14 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Data;
 using Dapper;
 using Microsoft.Extensions.Configuration;
-using navServer.Models.dbo;
 using navServer.DAL.Commands.Interface;
 using navServer.DAL.Repository.Interfaces;
+using navServer.Models.dbo;
 
 namespace navServer.DAL.Repository.Implementations
 {
