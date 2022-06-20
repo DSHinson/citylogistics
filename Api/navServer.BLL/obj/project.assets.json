@@ -1298,11 +1298,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\Learning\\Kata\\MVC\\navServer.BLL\\navServer.BLL.csproj",
+      "projectUniqueName": "C:\\Development\\Learning\\Kata\\NavigationApp\\Api\\navServer.BLL\\navServer.BLL.csproj",
       "projectName": "navServer.BLL",
-      "projectPath": "C:\\Development\\Learning\\Kata\\MVC\\navServer.BLL\\navServer.BLL.csproj",
+      "projectPath": "C:\\Development\\Learning\\Kata\\NavigationApp\\Api\\navServer.BLL\\navServer.BLL.csproj",
       "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\Learning\\Kata\\MVC\\navServer.BLL\\obj\\",
+      "outputPath": "C:\\Development\\Learning\\Kata\\NavigationApp\\Api\\navServer.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1326,11 +1326,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Development\\Learning\\Kata\\MVC\\navServer.DAL\\navServer.DAL.csproj": {
-              "projectPath": "C:\\Development\\Learning\\Kata\\MVC\\navServer.DAL\\navServer.DAL.csproj"
+            "C:\\Development\\Learning\\Kata\\NavigationApp\\Api\\navServer.DAL\\navServer.DAL.csproj": {
+              "projectPath": "C:\\Development\\Learning\\Kata\\NavigationApp\\Api\\navServer.DAL\\navServer.DAL.csproj"
             },
-            "C:\\Development\\Learning\\Kata\\MVC\\navServer.Models\\navServer.Models.csproj": {
-              "projectPath": "C:\\Development\\Learning\\Kata\\MVC\\navServer.Models\\navServer.Models.csproj"
+            "C:\\Development\\Learning\\Kata\\NavigationApp\\Api\\navServer.Models\\navServer.Models.csproj": {
+              "projectPath": "C:\\Development\\Learning\\Kata\\NavigationApp\\Api\\navServer.Models\\navServer.Models.csproj"
             }
           }
         }

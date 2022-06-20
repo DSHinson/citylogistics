@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using Dapper;
 using Microsoft.Extensions.Configuration;
 using navServer.DAL.Commands.Interface;
+using navServer.DAL.Repository.Implementations;
 using navServer.DAL.Repository.Interfaces;
 using navServer.Models.dbo;
 

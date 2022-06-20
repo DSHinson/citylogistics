@@ -15,6 +15,7 @@ using navServer.BLL.Implementations;
 using navServer.BLL.Interfaces;
 using navServer.DAL.Commands.Implementations;
 using navServer.DAL.Repository;
+using navServer.DAL.Repository.Implementations;
 
 namespace navServer
 {
@@ -38,7 +39,7 @@ namespace navServer
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "navServer", Version = "v1" });
             });
             services.AddScoped<IGeoLocation>(_=> new GeoLocationsService(key));
-            services.AddScoped<IRouteService>(_ = new RouteService(new RoutesRepository(Configuration, new Commands()),new AddressRepository(Configuration, new Commands())));
+            services.AddScoped<IRouteService>(_ => new RouteService(new RoutesRepository(Configuration, new Commands()),new AddressRepository(Configuration, new Commands())));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

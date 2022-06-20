@@ -8,10 +8,11 @@ using Dapper;
 using Microsoft.Extensions.Configuration;
 using navServer.Models.dbo;
 using navServer.DAL.Commands.Interface;
+using navServer.DAL.Repository.Interfaces;
 
-namespace navServer.DAL.Repository
+namespace navServer.DAL.Repository.Implementations
 {
-    public class RoutesRepository:BaseRepository
+    public class RoutesRepository:BaseRepository,IRoutesRepository
     {
     private readonly ICommands _command;
 

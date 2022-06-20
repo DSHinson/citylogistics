@@ -39,11 +39,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\Learning\\Kata\\MVC\\navServer.Models\\navServer.Models.csproj",
+      "projectUniqueName": "C:\\Development\\Learning\\Kata\\NavigationApp\\Api\\navServer.Models\\navServer.Models.csproj",
       "projectName": "navServer.Models",
-      "projectPath": "C:\\Development\\Learning\\Kata\\MVC\\navServer.Models\\navServer.Models.csproj",
+      "projectPath": "C:\\Development\\Learning\\Kata\\NavigationApp\\Api\\navServer.Models\\navServer.Models.csproj",
       "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\Learning\\Kata\\MVC\\navServer.Models\\obj\\",
+      "outputPath": "C:\\Development\\Learning\\Kata\\NavigationApp\\Api\\navServer.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

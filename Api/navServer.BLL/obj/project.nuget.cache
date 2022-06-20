@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RjSKDDnqWhwf6r5UNECl6opNoutWSFoPJ9U1ehTc49GG4dcoSCYWArdeZhTQ1VEt6xVUlCGTgirNpkmG97UQIQ==",
+  "dgSpecHash": "GKd3NmGy3hGZ2aw6Jx+pkPXdCegVP007DmgJQS52wHxE3Q2Z88ZQ+B0cGkPi0kl7uCk153FsAPJLC6l+BTafmA==",
   "success": true,
-  "projectFilePath": "C:\\Development\\Learning\\Kata\\MVC\\navServer.BLL\\navServer.BLL.csproj",
+  "projectFilePath": "C:\\Development\\Learning\\Kata\\NavigationApp\\Api\\navServer.BLL\\navServer.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daniel\\.nuget\\packages\\dapper\\2.0.30\\dapper.2.0.30.nupkg.sha512",
     "C:\\Users\\Daniel\\.nuget\\packages\\dapperextensions.netcore\\2.0.7\\dapperextensions.netcore.2.0.7.nupkg.sha512",

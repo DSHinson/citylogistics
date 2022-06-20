@@ -1,0 +1,15 @@
+C:\Development\Learning\Kata\NavigationApp\Api\navServer.DAL\obj\Debug\net5.0\navServer.DAL.csproj.AssemblyReference.cache
+C:\Development\Learning\Kata\NavigationApp\Api\navServer.DAL\obj\Debug\net5.0\navServer.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Learning\Kata\NavigationApp\Api\navServer.DAL\obj\Debug\net5.0\navServer.DAL.AssemblyInfoInputs.cache
+C:\Development\Learning\Kata\NavigationApp\Api\navServer.DAL\obj\Debug\net5.0\navServer.DAL.AssemblyInfo.cs
+C:\Development\Learning\Kata\NavigationApp\Api\navServer.DAL\obj\Debug\net5.0\navServer.DAL.csproj.CoreCompileInputs.cache
+C:\Development\Learning\Kata\NavigationApp\Api\navServer.DAL\bin\Debug\net5.0\navServer.DAL.deps.json
+C:\Development\Learning\Kata\NavigationApp\Api\navServer.DAL\bin\Debug\net5.0\navServer.DAL.dll
+C:\Development\Learning\Kata\NavigationApp\Api\navServer.DAL\bin\Debug\net5.0\navServer.DAL.pdb
+C:\Development\Learning\Kata\NavigationApp\Api\navServer.DAL\bin\Debug\net5.0\navServer.Models.dll
+C:\Development\Learning\Kata\NavigationApp\Api\navServer.DAL\bin\Debug\net5.0\navServer.Models.pdb
+C:\Development\Learning\Kata\NavigationApp\Api\navServer.DAL\obj\Debug\net5.0\navServer.DAL.csproj.CopyComplete
+C:\Development\Learning\Kata\NavigationApp\Api\navServer.DAL\obj\Debug\net5.0\navServer.DAL.dll
+C:\Development\Learning\Kata\NavigationApp\Api\navServer.DAL\obj\Debug\net5.0\refint\navServer.DAL.dll
+C:\Development\Learning\Kata\NavigationApp\Api\navServer.DAL\obj\Debug\net5.0\navServer.DAL.pdb
+C:\Development\Learning\Kata\NavigationApp\Api\navServer.DAL\obj\Debug\net5.0\ref\navServer.DAL.dll

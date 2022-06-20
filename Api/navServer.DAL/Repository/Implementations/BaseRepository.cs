@@ -7,18 +7,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace navServer.DAL.Repository
+namespace navServer.DAL.Repository.Implementations
 {
-    
-        public abstract class BaseRepository
-        {
-            private readonly string _connectionString;
 
-            protected BaseRepository(IConfiguration configuration)
-            {
-                _ = configuration ?? throw new ArgumentNullException(nameof(configuration));
-                _connectionString = configuration.GetConnectionString("DefaultConnection");
-            }
+    public abstract class BaseRepository
+    {
+        private readonly string _connectionString;
+
+        protected BaseRepository(IConfiguration configuration)
+        {
+            _ = configuration ?? throw new ArgumentNullException(nameof(configuration));
+            _connectionString = configuration.GetConnectionString("DefaultConnection");
+        }
 
         protected async Task WithConnection(Func<IDbConnection, Task> getData)
         {
